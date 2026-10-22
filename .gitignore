@@ -1,0 +1,24 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+local.properties
+*.properties.local
+secrets.properties
+.idea/
+.DS_Store
+/build/
+*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Environment files & secrets
+.env
+.env.*
+!.env.example
+*.env
+*.keystore
+*.jks
+google-services.json
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Waveform & Care/Cue emblem centered in safe zone (54,54) -->
+    <!-- Soundwave bars in warm orange gradient accents -->
+    <!-- Bar 1 -->
+    <path
+        android:fillColor="#FFB366"
+        android:pathData="M34,48 C34,46.5 35.5,45 37,45 C38.5,45 40,46.5 40,48 L40,60 C40,61.5 38.5,63 37,63 C35.5,63 34,61.5 34,60 Z" />
+    <!-- Bar 2 -->
+    <path
+        android:fillColor="#FF9500"
+        android:pathData="M43,40 C43,38.5 44.5,37 46,37 C47.5,37 49,38.5 49,40 L49,68 C49,69.5 47.5,71 46,71 C44.5,71 43,69.5 43,68 Z" />
+    <!-- Center Hero Bar / Pulse -->
+    <path
+        android:fillColor="#FF7A00"
+        android:pathData="M52,33 C52,31.3 53.3,30 55,30 C56.7,30 58,31.3 58,33 L58,75 C58,76.7 56.7,78 55,78 C53.3,78 52,76.7 52,75 Z" />
+    <!-- Bar 4 -->
+    <path
+        android:fillColor="#FF9500"
+        android:pathData="M61,40 C61,38.5 62.5,37 64,37 C65.5,37 67,38.5 67,40 L67,68 C67,69.5 65.5,71 64,71 C62.5,71 61,69.5 61,68 Z" />
+    <!-- Bar 5 -->
+    <path
+        android:fillColor="#FFB366"
+        android:pathData="M70,48 C70,46.5 71.5,45 73,45 C74.5,45 76,46.5 76,48 L76,60 C76,61.5 74.5,63 73,63 C71.5,63 70,61.5 70,60 Z" />
+    <!-- Gentle Care Heart Glow Dot in pure white/warm amber -->
+    <path
+        android:fillColor="#FFF5EB"
+        android:pathData="M55,51 C57,51 58.5,52.5 58.5,54.5 C58.5,56.5 57,58 55,58 C53,58 51.5,56.5 51.5,54.5 C51.5,52.5 53,51 55,51 Z" />
+</vector>

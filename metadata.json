@@ -1,0 +1,8 @@
+{
+  "name": "CareCue",
+  "description": "Small things remembered. People better cared for. Conversational household assistant with validated tasks and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
